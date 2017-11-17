@@ -8,6 +8,8 @@
         <Label Text="Welcome to Xamarin Forms and Prism!" />
         <Label Text="Label number two for commit to git hub"/>
         <Label Text="Push number three for pushto github"/>
+      
+        <Label Text="This is a test to pull from git to solution"/>
     </StackLayout>
 
 </ContentPage>
